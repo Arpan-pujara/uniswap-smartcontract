@@ -1,0 +1,6 @@
+hardhat.config.ts
+scripts
+test
+node_modules
+artifacts
+.env
